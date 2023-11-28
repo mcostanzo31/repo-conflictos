@@ -2,4 +2,6 @@ archivo 1 A prueba
 
 editado test
 
-MENSAJE DE A
+punto 7 texto agregado!
+
+test1234
